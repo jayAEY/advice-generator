@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/jayAEY/advice-generator)
-- Live Site URL: [Github Pages](https://jayaey.github.io/advice-generator/)
+- Solution URL: [https://github.com/jayAEY/advice-generator](https://github.com/jayAEY/advice-generator)
+- Live Site URL: [https://jayaey.github.io/advice-generator/](https://jayaey.github.io/advice-generator/)
 
 ## My process
 
@@ -44,3 +44,5 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@jayAEY](https://www.frontendmentor.io/profile/jayAEY)
+
+
